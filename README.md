@@ -1,1 +1,1 @@
-Raymond's User Page
+Raymond's User. My favorite programming language is Java so far.
