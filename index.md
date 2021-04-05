@@ -65,7 +65,7 @@ Kobe Bryant states:
 
 # [Goals](#career-objective)
 ```
-   Be able retire my parents
+   Be able to have my parents retired
    Give back to the world
    Stay Healthy
 ```
