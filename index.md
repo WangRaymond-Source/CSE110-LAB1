@@ -1,4 +1,3 @@
-Add a picture of me
 # **About Me**
 My name is Raymond wang, and I am currently an undergraduate sophomore studying Computer Science at the Univeristy of California, San diego. I am very self-motivated and detail-oriented in my studies. I take criticism well and leverage challenges into learning experiences.
 ##### **Career Objective:** 
@@ -11,7 +10,7 @@ I would love to work and be part of the technology industry in the near future w
 
 ###### Class of: 2023
 ###### Degree: B.S. Computer Science
-##### Relevant  coursework
+##### [Relevant  coursework](https://catalog.ucsd.edu/courses/CSE.html)
 - Object Oriented Programing
 - Discrete Mathematics
 - Linear Algebra
@@ -36,6 +35,7 @@ I would love to work and be part of the technology industry in the near future w
     3. GTA
     4. Minecraft
     5. Super smash bros
+
 - Watching movies
 ##### Things I would love to do in the Future:
 - [ ] Surfing
