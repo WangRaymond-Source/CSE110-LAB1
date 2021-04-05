@@ -31,7 +31,7 @@ I would love to work and be part of the technology industry in the near future w
 - GYM
 - Hanging out with friends
 - Playing games(top 5):
-    1. ![Counter-Strike: Global Offensive](CSGO.jpg)
+    1. CSGO
     2. League of legends
     3. GTA
     4. Minecraft
