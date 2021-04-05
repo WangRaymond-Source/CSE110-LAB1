@@ -34,9 +34,17 @@ I would love to work and be part of the technology industry in the near future w
     <img src="CSGOPIC.png" width="100" height ="100">
 
     2. League of legends
+    <img src="LOL.png" width="100" height ="100">
+
     3. GTA
+    <img src="GTA.png" width="100" height ="100">
+
     4. Minecraft
+    <img src="MINE.png" width="100" height ="100">
+
     5. Super smash bros
+    <img src="SUPER.png" width="100" height ="100">
+
 
 - Watching movies
 ##### Things I would love to do in the Future:
