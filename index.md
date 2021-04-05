@@ -1,4 +1,4 @@
-<img src="ME.jpg" width="720" height ="110">
+<img src="ME.jpg" width="220" height ="510">
 
 # **About Me**
 My name is Raymond wang and I am currently an undergraduate sophomore studying Computer Science at the [Univeristy of California, San diego](#education). I am very [self-motivated](#favorite-qoutes) and detail-oriented in my studies. I take criticism well and leverage challenges into learning experiences. Overall, I love to experience new [things](#hobbies).
