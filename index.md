@@ -7,7 +7,7 @@ I would love to work and be part of the technology industry in the near future w
 **Linkedin**: [Here](https://www.linkedin.com/in/raymond-wang-8572671b1/)
 **Email**: rlw004@ucsd.edu
 # Education
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngarea.com%2Fview%2F15cbfd7d_ucsd-logo-png-university-of-california-san-diego%2F&psig=AOvVaw3WYHOnUV2WY5xR-CrQoJf3&ust=1617675801300000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIjQz42G5u8CFQAAAAAdAAAAABAQ" width=100 height=100>
+<img src="UCSDSeal.png" width=100 height=100>
 
 ###### Class of: 2023
 ###### Degree: B.S. Computer Science
