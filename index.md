@@ -32,7 +32,9 @@ I would love to work and be part of the technology industry in the near future w
 - Hanging out with friends
 - Playing games(top 5):
     1. Counter-Strike: Global Offensive
+    
     <img src="CSGO.jpg" width="100" height ="100">
+
     1. League of legends
     2. GTA
     3. Minecraft
