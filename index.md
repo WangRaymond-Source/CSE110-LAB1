@@ -38,8 +38,8 @@ I would love to work and be part of the technology industry in the near future w
     5. Super smash bros
 - Watching movies
 ##### Things I would love to do in the Future:
-- []Surfing
-- []Traveling
+[ ] Surfing
+[ ] Traveling
 
 # Favorite Qoutes
 Buddha Once Said:
