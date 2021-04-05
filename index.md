@@ -4,11 +4,22 @@ My name is Raymond wang, and I am currently an undergraduate sophomore studying 
 ##### **Career Objective:** 
 I would love to work and be part of the technology industry in the near future when I graduate (2023). Currently, I am seeking computing experience to help me achieve this objective.
 ##### **Contacts**
-Linkedin: [Here](https://www.linkedin.com/in/raymond-wang-8572671b1/)
-Email: rlw004@ucsd.edu
+**Linkedin**: [Here](https://www.linkedin.com/in/raymond-wang-8572671b1/)
+**Email**: rlw004@ucsd.edu
 # Education
-![](UCSD Seal.png)
+![](UCSDSeal.png = 100*100)
+###### Class of: 2023
+###### Degree: B.S. Computer Science
 ##### Relevant  coursework
+- Object Oriented Programing
+- Discrete Mathematics
+- Linear Algebra
+- Calculus 1,2,& 3
+- Advance Data Structures 
+- Mathematics for Algorithms and Systems
+- Computer Organization and Systems Programming
+- Computational Theory
+- Components and Design Techniques for Digital Systems 
 
 # Hobbies
 - Coding
