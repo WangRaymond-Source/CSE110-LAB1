@@ -1,5 +1,5 @@
 # **About Me**
-My name is Raymond wang and I am currently an undergraduate sophomore studying Computer Science at the Univeristy of California, San diego. I am very self-motivated and detail-oriented in my studies. I take criticism well and leverage challenges into learning experiences.
+My name is Raymond wang and I am currently an undergraduate sophomore studying Computer Science at the [Univeristy of California, San diego](#education). I am very self-motivated and detail-oriented in my studies. I take criticism well and leverage challenges into learning experiences.
 ##### **Career Objective:** 
 I would love to work and be part of the technology industry in the near future when I graduate (2023). Currently, I am seeking computing experience to help me achieve this objective.
 ##### **Contacts**
