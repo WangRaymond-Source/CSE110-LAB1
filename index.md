@@ -32,10 +32,11 @@ I would love to work and be part of the technology industry in the near future w
 - Hanging out with friends
 - Playing games(top 5):
     1. Counter-Strike: Global Offensive
-    2. League of legends
-    3. GTA
-    4. Minecraft
-    5. Super smash bros
+    <img src="CSGO.jpg" width="100" height ="100">
+    1. League of legends
+    2. GTA
+    3. Minecraft
+    4. Super smash bros
 - Watching movies
 ##### Things I would love to do in the Future:
 - Surfing
