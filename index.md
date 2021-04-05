@@ -7,7 +7,7 @@ I would love to work and be part of the technology industry in the near future w
 Linkedin: [Here](https://www.linkedin.com/in/raymond-wang-8572671b1/)
 Email: rlw004@ucsd.edu
 # Education
-![](UCSD Seal.png = 100x20)
+![](UCSD Seal.png)
 ##### Relevant  coursework
 
 # Hobbies
